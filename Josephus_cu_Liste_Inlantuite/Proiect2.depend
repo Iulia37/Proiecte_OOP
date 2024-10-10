@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1713940865 source:c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\main.cpp
+	<iostream>
+	"Nod.h"
+	"Nod_dublu.h"
+	"Lista.h"
+	"Lista_circulara.h"
+	"Meniu.h"
+
+1713710280 c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\nod.h
+	<iostream>
+
+1713940311 source:c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\nod.cpp
+	<iostream>
+	"Nod.h"
+
+1713940910 source:c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1713940925 source:c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\lista_circulara.cpp
+	<iostream>
+	"Lista_circulara.h"
+
+1713940357 source:c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\nod_dublu.cpp
+	<iostream>
+	"Nod_dublu.h"
+
+1713710527 c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\nod_dublu.h
+	<iostream>
+	"Nod.h"
+
+1713940066 c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\lista.h
+	<iostream>
+	"Nod_dublu.h"
+
+1713636982 c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\lista_circulara.h
+	<iostream>
+	"Lista.h"
+
+1713711301 source:c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\meniu.cpp
+	<iostream>
+	"Meniu.h"
+
+1713634094 c:\users\lenovo\onedrive\documents\info\poo\proiect2\proiect2\meniu.h
+	<iostream>
+	<string>
+	<vector>
+	"Nod.h"
+	"Nod_dublu.h"
+	"Lista.h"
+	"Lista_circulara.h"
+
