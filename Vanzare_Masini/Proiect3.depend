@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1716962453 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\main.cpp
+	<iostream>
+	"Masina.h"
+	"MasinaMini.h"
+	"MasinaMica.h"
+	"MasinaCompacta.h"
+	"MasinaMonovolum.h"
+	"Vanzare.h"
+	"Meniu.h"
+	"Test.h"
+
+1716888525 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\masina.cpp
+	<iostream>
+	<exception>
+	"Masina.h"
+
+1716888525 c:\users\lenovo\onedrive\documents\info\poo\proiect3\masina.h
+	<iostream>
+
+1716741350 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinamini.cpp
+	"MasinaMini.h"
+
+1716706965 c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinamini.h
+	<iostream>
+	"Masina.h"
+
+1716741350 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinacompacta.cpp
+	"MasinaCompacta.h"
+
+1716741350 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinamica.cpp
+	"MasinaMica.h"
+
+1716741350 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinamonovolum.cpp
+	"MasinaMonovolum.h"
+
+1716706965 c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinamica.h
+	<iostream>
+	"Masina.h"
+
+1716706965 c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinacompacta.h
+	<iostream>
+	"Masina.h"
+
+1716740460 c:\users\lenovo\onedrive\documents\info\poo\proiect3\masinamonovolum.h
+	<iostream>
+	"Masina.h"
+
+1716160368 c:\users\lenovo\onedrive\documents\info\poo\proiect3\monovolume.h
+	<iostream>
+	<set>
+	"MasinaMonovolum.h"
+
+1716809132 c:\users\lenovo\onedrive\documents\info\poo\proiect3\vanzare.h
+	<iostream>
+	<set>
+	<typeinfo>
+	"Masina.h"
+	"MasinaMonovolum.h"
+
+1716363004 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\vanzare.cpp
+	"Vanzare.h"
+
+1716752116 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\meniu.cpp
+	"Meniu.h"
+	"Except.h"
+	<limits>
+
+1716616419 c:\users\lenovo\onedrive\documents\info\poo\proiect3\meniu.h
+	<iostream>
+	<string>
+	"Vanzare.h"
+	"Masina.h"
+	"MasinaMini.h"
+	"MasinaMica.h"
+	"MasinaCompacta.h"
+	"MasinaMonovolum.h"
+
+1716751810 c:\users\lenovo\onedrive\documents\info\poo\proiect3\except.h
+	<iostream>
+	<exception>
+
+1716708932 source:c:\users\lenovo\onedrive\documents\info\poo\proiect3\test.cpp
+	"Test.h"
+
+1716708853 c:\users\lenovo\onedrive\documents\info\poo\proiect3\test.h
+	<iostream>
+	"Masina.h"
+	"MasinaMini.h"
+	"MasinaMica.h"
+	"MasinaMonovolum.h"
+	"MasinaCompacta.h"
+
